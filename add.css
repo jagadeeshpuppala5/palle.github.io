@@ -22,7 +22,6 @@
     cursor: pointer;
 }
 .ikg{
-    height:100px;
-    width:100px;
-    margin:20px;
+    width:15%;
+    border-radius: 25px;
 }
